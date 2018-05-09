@@ -1,0 +1,10 @@
+package com.yali.day10;
+
+public class ArgumentArray {
+
+	public static void main(String[] args) {
+		for (int i = 0; i < args.length; i++) {
+			System.out.println(args[i]);
+		}
+	}
+}
